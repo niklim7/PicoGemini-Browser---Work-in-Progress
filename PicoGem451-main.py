@@ -23,8 +23,8 @@ RIGHT_PIN = 5 # Select/Forward
 
 # --- Wi-Fi Credentials ---
 # TODO: Move to external config file in future
-WIFI_SSID = "Qush yo'q joyda" 
-WIFI_PASSWORD = "Qurbaq@_Bulbu1"
+WIFI_SSID = "Your SSID" 
+WIFI_PASSWORD = "Your wifi password"
 
 # --- Gemini Protocol Settings ---
 GEMINI_PORT = 1965
